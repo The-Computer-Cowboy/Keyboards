@@ -1,3 +1,6 @@
+All layouts have been made using QMK Configurator. Just download the json file of the layout you want and upload it to QMK Configurator to make any changes you need or to get the necessary file to flash the config to your keyboard.
+
+
 Piantor Keyboard Layout
 
 Base Layer:
